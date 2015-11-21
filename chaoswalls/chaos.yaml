@@ -1,0 +1,156 @@
+- name: temperance
+  value: [1]
+- name: justice
+  value: [2]
+- name: 10 of swords
+  value: [2, 17]
+- name: the fool
+  value: [3]
+- name: 4 of cups
+  value: [4]
+- name: 4 of swords
+  value: [5]
+- name: 5 of wands
+  value: [6]
+- name: 7 of pentacles
+  value: [7]
+- name: 9 of wands
+  value: [9]
+- name: 9 of cups
+  value: [9]
+- name: 10 of cups
+  value: [10]
+- name: the magician
+  value: [16]
+- name: the high priestess
+  value: []
+- name: the empress
+  value: [12]
+- name: the emperor
+  value: []
+- name: the hierophant
+  value: [13]
+- name: the lovers
+  value: []
+- name: the chariot
+  value: []
+- name: the hermit
+  value: []
+- name: wheel of fortune
+  value: []
+- name: strength
+  value: []
+- name: the hanged man
+  value: []
+- name: death
+  value: []
+- name: the devil
+  value: []
+- name: the tower
+  value: []
+- name: the star
+  value: []
+- name: the moon
+  value: [8]
+- name: the sun
+  value: []
+- name: judgment
+  value: [11]
+- name: the world
+  value: []
+- name: 2 of cups
+  value: []
+- name: 3 of cups
+  value: []
+- name: 5 of cups
+  value: []
+- name: 6 of cups
+  value: []
+- name: 7 of cups
+  value: []
+- name: 8 of cups
+  value: []
+- name: ace of cups
+  value: []
+- name: page of cups
+  value: []
+- name: knight of cups
+  value: [11]
+- name: queen of cups
+  value: []
+- name: king of cups
+  value: []
+- name: 2 of swords
+  value: []
+- name: 3 of swords
+  value: []
+- name: 5 of swords
+  value: []
+- name: 6 of swords
+  value: []
+- name: 7 of swords
+  value: [15]
+- name: 8 of swords
+  value: []
+- name: 9 of swords
+  value: []
+- name: ace of swords
+  value: []
+- name: page of swords
+  value: []
+- name: knight of swords
+  value: []
+- name: queen of swords
+  value: []
+- name: king of swords
+  value: []
+- name: 2 of wands
+  value: []
+- name: 3 of wands
+  value: []
+- name: 4 of wands
+  value: []
+- name: 6 of wands
+  value: []
+- name: 7 of wands
+  value: []
+- name: 8 of wands
+  value: []
+- name: 10 of wands
+  value: []
+- name: ace of wands
+  value: []
+- name: page of wands
+  value: []
+- name: knight of wands
+  value: []
+- name: queen of wands
+  value: []
+- name: king of wands
+  value: []
+- name: 2 of pentacles
+  value: []
+- name: 3 of pentacles
+  value: []
+- name: 4 of pentacles
+  value: [14]
+- name: 5 of pentacles
+  value: []
+- name: 6 of pentacles
+  value: []
+- name: 8 of pentacles
+  value: []
+- name: 9 of pentacles
+  value: []
+- name: 10 of pentacles
+  value: []
+- name: ace of pentacles
+  value: []
+- name: page of pentacles
+  value: []
+- name: knight of pentacles
+  value: []
+- name: queen of pentacles
+  value: []
+- name: king of pentacles
+  value: []
